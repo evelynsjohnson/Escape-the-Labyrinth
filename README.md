@@ -1,3 +1,4 @@
+# Escape-the-Labyrinth
 There are two portions to this project:
 1. Generating and creating the grid (grid.h)
    - Defines a template class called Grid. The purpose of this class is to represent a 2D grid or matrix with elements of type T. The class provides functionality for creating, manipulating, and managing a grid of arbitrary size.
